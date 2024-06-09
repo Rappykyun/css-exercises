@@ -1,0 +1,16 @@
+p {
+    background-color: #fabac4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#blue {
+ color: blue;
+ font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#bold {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
